@@ -5,7 +5,6 @@
 .ccls-cache
 .git
 main
-main.c
 Makefile
 .replit
 replit.nix
