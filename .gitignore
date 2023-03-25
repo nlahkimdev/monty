@@ -1,0 +1,12 @@
+.
+..
+.breakpoints
+.cache
+.ccls-cache
+.git
+main
+main.c
+Makefile
+monty.h
+.replit
+replit.nix
